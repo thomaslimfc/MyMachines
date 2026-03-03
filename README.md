@@ -9,7 +9,7 @@
 ### Specification
 - Central Processing Unit (CPU): **11th Gen Intel® Core™ i5-11400H @ 2.70GHz**
 - Graphic Processing Unit (GPU): **NVIDIA GeForce RTX 3050 Laptop GPU**
-- Random Access Memory (RAM): **Kingston Fury Impact DDR4 8GB x2**
+- Random Access Memory (RAM): **Kingston Fury Impact DDR4 8GB 3200MHz x2**
 - Operating System (OS): **Windows 11**
 - Storage: **Intel NVMe SSDPEKNU512GZ SSD 500GB**
 - Secondary Storage: **Kingston NV2 M.2 2280 PCIe NVMe Gen4 SNV251000G SSD 1TB**
@@ -39,18 +39,30 @@
 ### Specification
 - Central Processing Unit (CPU): **7th Gen Intel® Core™ i3-7100 CPU @ 3.90GHz**
 - Graphic Processing Unit (GPU): N/A
-- Random Access Memory (RAM): **Kingston Fury Impact DDR4 8GB x2**
+- Random Access Memory (RAM): **Kingston DDR4 8GB 2133MHz**
 - Operating System (OS): **Windows 11**
-- Storage: **Intel NVMe SSDPEKNU512GZ SSD 500GB**
-- Secondary Storage: **Kingston NV2 M.2 2280 PCIe NVMe Gen4 SNV251000G SSD 1TB**
+- Storage: **Toshiba HDD 750GB**
 - Network Card: **Ugreen AX300 Wi-Fi 6 2.4G (300Mbps) 3dBi [External]**
-- Display: **Asus Laptop Screen 15.6" 144Hz (1920x1080)**
-- Monitor: **HP M24D FHD Monitor 23.8" 75Hz (1920x1080)**
+- 
+- Monitor: **Samsung HD**
 
 Condition: Self-Refurbished without any cost.
 
 ## Coming Soon
+
+### Specification (Performance PC)
+- Central Processing Unit (CPU): **11th Gen Intel® Core™ i5-11400H @ 2.70GHz**
+- Graphic Processing Unit (GPU): **NVIDIA GeForce RTX 3050 Laptop GPU**
+- Random Access Memory (RAM): **Kingston Fury=ct DDR4 8GB 3200MHz x2**
+- Operating System (OS): **Windows 11**
+- Storage: **Intel NVMe SSD=00GB**
+- Secondary Storage: **Kingston NV2 M.2 2280 PCIe NVMe Gen4 SNV251000G SSD 1TB**
+- Network Card: **MediaTek Wi-Fi 6 MT7921 Wireless LAN Card**
+- Display: **Asus Laptop Screen 15.6" 144Hz (1920x1080)**
+- Monitor: **HP M24D FHD Monitor 23.8" 75Hz (1920x1080)**
+
 - Network Card: **Ugreen AX3000 Wi-Fi 6 2.4G (300Mbps) 3dBi - [External]**
+- 
 <!--
 Ultrabook / Thin‑and‑Light
 Purpose: Portable everyday productivity with long battery life.
