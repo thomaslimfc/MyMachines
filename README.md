@@ -5,7 +5,6 @@
 - Sub-brand: TUF Gaming
 - Chassis: F15
 - Model: FX506H
-
 ### Specification
 - Central Processing Unit (CPU): **11th Gen Intel® Core™ i5-11400H @ 2.70GHz**
 - Graphic Processing Unit (GPU): **NVIDIA GeForce RTX 3050 Laptop GPU**
@@ -34,8 +33,21 @@
   </tr>
 </table>
 
-## Desktop
+## Performance Notebook (Internship)
+- Brand/Manufacturer: HP
+- Model: ZBook Fury 15 G7
+### Specification
+- Central Processing Unit (CPU): **10th Gen Intel® Core™ i7-10850H CPU @ 2.70GHz (6C + T)**
+- Graphic Processing Unit (GPU): **NVIDIA Quadro RTX 3000**
+- Random Access Memory (RAM): **DDR4 2667MHz 16GB x2**
+- Operating System (OS): **Windows 11**
+- Storage: **KXG60ZNV1T02 KIOXIA SSD 1TB**
+- Network Card: **Intel® Wi-Fi 6 AX201 160MHz**
+- Display: **HP Laptop Screen 15.6" Hz (1920x1080)**
+- Monitor: **Acer B247Y D Widescreen LCD FHD Monitor 23.8" 75Hz (1920x1080)**
+- Docking Station: **HP Thunderbolt Dock 230W G2 HSN-IX01**
 
+## Desktop
 ### Specification
 - Central Processing Unit (CPU): **7th Gen Intel® Core™ i3-7100 CPU @ 3.90GHz**
 - Graphic Processing Unit (GPU): N/A
@@ -43,10 +55,12 @@
 - Operating System (OS): **Windows 11**
 - Storage: **Toshiba HDD 750GB**
 - Network Card: **Ugreen AX300 Wi-Fi 6 2.4G (300Mbps) 3dBi [External]**
-- 
+- Power Supply Unit (PSU): **Cooler Master**
+- CPU Cooler: **Intel CPU Cooler Fan**
+- Casing: **Cooler Master Casing**
 - Monitor: **Samsung HD**
 
-Condition: Self-Refurbished without any cost.
+Condition: Used and refurbished by my own without any cost.
 
 ## Coming Soon
 
