@@ -54,8 +54,7 @@ Condition: Self-Refurbished without any cost.
 - Central Processing Unit (CPU): **14th Gen Intel® Core™ i5-14400F @ 4.70GHz (10C + 16T) 148W** - 639
 - Graphic Processing Unit (GPU): **NVIDIA RTX3050 (6G) 130W** - 890
 - Motherboard (MB): **Colorful B760M-G WIFI Battle-Ax** - 380
-<!-- Random Access Memory (RAM): **Kingston Fury Beast DDR4 3600MHz CL16 16GB x2** - 1430 -->
-- Random Access Memory (RAM): **Kingston Fury Beast DDR4 3600MHz CL16 8GB x2** - 745
+- Random Access Memory (RAM): **Kingston Fury Beast DDR4 3600MHz CL16 [16GB x2 = 1430] 8GB x2** - 745
 - Operating System (OS): **Windows 11**
 - Storage: **1TB ssd** - 600
 - Secondary Storage: **ssd**
