@@ -47,7 +47,7 @@
 - Monitor: **Acer B247Y D Widescreen LCD FHD Monitor 23.8" 75Hz (1920x1080)**
 - Docking Station: **HP Thunderbolt Dock 230W G2 HSN-IX01**
 
-## 3. Desktop (For automation engineering purpose)
+## 3. Desktop (For industrial automation engineering purposes)
 ### Specification
 - Central Processing Unit (CPU): **7th Gen Intel® Core™ i3-7100 CPU @ 3.90GHz**
 - Graphic Processing Unit (GPU): N/A
