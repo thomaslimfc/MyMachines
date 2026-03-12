@@ -1,6 +1,6 @@
 # My Machine(s)
 
-## Performance Notebook
+## 1. Performance Notebook
 - Brand/Manufacturer: ASUS
 - Sub-brand: TUF Gaming
 - Chassis: F15
@@ -33,7 +33,7 @@
   </tr>
 </table>
 
-## Performance Notebook (Internship)
+## 2. Performance Notebook (1st Job)
 - Brand/Manufacturer: HP
 - Model: ZBook Fury 15 G7
 ### Specification
@@ -47,7 +47,7 @@
 - Monitor: **Acer B247Y D Widescreen LCD FHD Monitor 23.8" 75Hz (1920x1080)**
 - Docking Station: **HP Thunderbolt Dock 230W G2 HSN-IX01**
 
-## Desktop (For automation engineering purpose)
+## 3. Desktop (For automation engineering purpose)
 ### Specification
 - Central Processing Unit (CPU): **7th Gen Intel® Core™ i3-7100 CPU @ 3.90GHz**
 - Graphic Processing Unit (GPU): N/A
@@ -62,7 +62,7 @@
 
 Condition: Used and refurbished by my own without any cost.
 
-## Coming Soon
+## 4. Coming Soon
 
 ### Budget PC - MYR 4.0k
 - Central Processing Unit (CPU): **14th Gen Intel® Core™ i5-14400F @ 4.70GHz (10C + 16T) 148W** - 639
