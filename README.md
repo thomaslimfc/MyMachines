@@ -49,7 +49,7 @@
 
 ## 3. Desktop (For industrial automation engineering purposes)
 ### Specification
-- Central Processing Unit (CPU): **7th Gen Intel® Core™ i3-7100 CPU @ 3.90GHz (2P+0E=2C;4T)**
+- Central Processing Unit (CPU): **7th Gen Intel® Core™ i3-7100 CPU @ 3.90GHz (2P+0E=2C; 4T)**
 - Graphic Processing Unit (GPU): N/A
 - Random Access Memory (RAM): **Kingston DDR4 2133MHz 8GB**
 - Operating System (OS): **Windows 11**
