@@ -104,6 +104,20 @@ Condition: Used and refurbished by my own without any cost.
 - Casing: **Aigo CPU Casing ATX T21 + 6pcs fan** - 121
 - Monitor: **Prism+ X270PRO WQHD 27" 180Hz 1ms 120% sRGB 2K (2560x1440)** - 950
 
+### Suggested PC - MYR N/A
+- Central Processing Unit (CPU): **14th Gen Intel® Core™ i7-14700 @ 5.40Hz (8P+12E=20C; 28T) 219W** - 1279
+- Graphic Processing Unit (GPU): **** - 1699
+- Motherboard (MB): **Asus** - 791
+- Random Access Memory (RAM): **Kingston Fury Beast DDR5 3200MHz CL36 16GB x2** - 399
+- Operating System (OS): **Windows 11**
+- Storage: **ssd** - 600
+- Secondary Storage: **ssd**
+- Network Card: **** - 87
+- Power Supply Unit (PSU): **Huntkey 600W** - 382
+- CPU Cooler: **** - 242
+- Casing: **Aigo CPU Casing ATX T21 + 6pcs fan** - 121
+- Monitor: **** - 950
+
 <!--
 Ultrabook / Thin‑and‑Light
 Purpose: Portable everyday productivity with long battery life.
