@@ -72,7 +72,7 @@
 - Power Supply Unit (PSU): **Cooler Master RS-460-PSAR-I3**
 - CPU Cooler: **Intel E97379-003 (OEM)**
 - Casing: **Cooler Master Casing**
-- Monitor: **Samsung HD**
+- Monitor: **Phillips 223V5LSB2/69 Monitor**
 
 Condition: Used and refurbished by my own without any cost.
 
@@ -88,7 +88,8 @@ Condition: Used and refurbished by my own without any cost.
 - Power Supply Unit (PSU): **Cooler Master RS-625-PCAR-D3**
 - CPU Cooler: **Intel E97378-001**
 - Casing: **Cooler Master Casing**
-- Monitor: **Samsung HD**
+- Monitor: **Samsung S19C150 HD Monitor**
+- Monitor: **HP Compaq LE1711 LCD Monitor 17.0**
 
 Condition: Used and refurbished by my own without any cost.
 
