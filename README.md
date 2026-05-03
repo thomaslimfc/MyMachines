@@ -60,7 +60,7 @@
 - Monitor: **Acer B247Y D Widescreen LCD FHD Monitor 23.8" 75Hz (1920x1080)**
 - Docking Station: **HP Thunderbolt Dock 230W G2 HSN-IX01**
 
-## 4. Desktop A
+## 4. Desktop A (For general testing purposes)
 ### Specification
 - Motherboard (MB): **Asus H110M-D (LGA 1151 - Socket H4)**
 - Central Processing Unit (CPU): **7th Gen Intel® Core™ i3-7100 CPU @ 3.90GHz** (2P+0E=2C; 4T)
@@ -80,7 +80,7 @@ Condition: Used and refurbished by my own without any cost.
 ### Specification
 - Motherboard (MB): **Gigabyte GA-287-D3HP (LGA 1150 - Socket H3)**
 - Central Processing Unit (CPU): **4th Gen Intel® Core™ i7-4770 CPU @ 3.40GHz** (4P+0E=4C; 8T)
-- Graphic Processing Unit (GPU): **GTX**
+- Graphic Processing Unit (GPU): **GTX650-E-2GD5**
 - Random Access Memory (RAM): **Kingston DDR3 1600MHz 8GB**
 - Operating System (OS): **Windows 11**
 - Storage: **Western Digital Caviar Green 3.5" HDD 1TB**
