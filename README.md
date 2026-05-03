@@ -60,22 +60,39 @@
 - Monitor: **Acer B247Y D Widescreen LCD FHD Monitor 23.8" 75Hz (1920x1080)**
 - Docking Station: **HP Thunderbolt Dock 230W G2 HSN-IX01**
 
-## 4. Desktop (For industrial automation engineering purposes)
+## 4. Desktop A
 ### Specification
+- Motherboard (MB): **Asus H110M-D (LGA 1151 - Socket H4)**
 - Central Processing Unit (CPU): **7th Gen Intel® Core™ i3-7100 CPU @ 3.90GHz** (2P+0E=2C; 4T)
 - Graphic Processing Unit (GPU): N/A
 - Random Access Memory (RAM): **Kingston DDR4 2133MHz 8GB**
 - Operating System (OS): **Windows 11**
 - Storage: **Western Digital HDD 1TB**
 - Network Card: **Ugreen AX300 Wi-Fi 6 2.4G (300Mbps) 3dBi [External]**
-- Power Supply Unit (PSU): **Cooler Master**
-- CPU Cooler: **Intel CPU Cooler Fan**
+- Power Supply Unit (PSU): **Cooler Master RS-460-PSAR-I3**
+- CPU Cooler: **Intel E97379-003 (OEM)**
 - Casing: **Cooler Master Casing**
 - Monitor: **Samsung HD**
 
 Condition: Used and refurbished by my own without any cost.
 
-## 5. Coming Soon
+## 5. Desktop B (For industrial automation engineering purposes)
+### Specification
+- Motherboard (MB): **Gigabyte GA-287-D3HP (LGA 1150 - Socket H3)**
+- Central Processing Unit (CPU): **4th Gen Intel® Core™ i7-4770 CPU @ 3.40GHz** (4P+0E=4C; 8T)
+- Graphic Processing Unit (GPU): **GTX**
+- Random Access Memory (RAM): **Kingston DDR3 1600MHz 8GB**
+- Operating System (OS): **Windows 11**
+- Storage: **Western Digital Caviar Green 3.5" HDD 1TB**
+- Network Card: **Tp-Link TL-WN751ND (150Mbps)**
+- Power Supply Unit (PSU): **Cooler Master RS-625-PCAR-D3**
+- CPU Cooler: **Intel E97378-001**
+- Casing: **Cooler Master Casing**
+- Monitor: **Samsung HD**
+
+Condition: Used and refurbished by my own without any cost.
+
+## 6. Coming Soon
 
 ### Budget PC - MYR 4.0k
 - Central Processing Unit (CPU): **14th Gen Intel® Core™ i5-14400F @ 4.70GHz (6P+8E=14C; 20T) 148W** - 639
