@@ -69,7 +69,7 @@
 - Operating System (OS): **Windows 11**
 - Storage: **Western Digital HDD 1TB**
 - Network Card: **Ugreen AX300 Wi-Fi 6 2.4G (300Mbps) 3dBi [External]**
-- Power Supply Unit (PSU): **Cooler Master RS-460-PSAR-I3**
+- Power Supply Unit (PSU): **Cooler Master Elite Power 460 RS-460-PSAR-I3**
 - CPU Cooler: **Intel E97379-003 (OEM)**
 - Casing: **Cooler Master Casing**
 - Monitor: **Phillips 223V5LSB2/69 Monitor**
@@ -85,7 +85,7 @@ Condition: Used and refurbished by my own without any cost.
 - Operating System (OS): **Windows 11**
 - Storage: **Western Digital Caviar Green 3.5" HDD 1TB**
 - Network Card: **Tp-Link TL-WN751ND (150Mbps)**
-- Power Supply Unit (PSU): **Cooler Master RS-625-PCAR-D3**
+- Power Supply Unit (PSU): **Cooler Master Extreme 2 625W RS-625-PCAR-D3**
 - CPU Cooler: **Intel E97378-001**
 - Casing: **Cooler Master Casing**
 - Monitor: **Samsung S19C150 HD Monitor**
