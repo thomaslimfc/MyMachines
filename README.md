@@ -45,22 +45,8 @@
 - Network Card: **Intel® Wi-Fi 6 AX201 160MHz**
 - Display: **Asus Laptop Screen 13.3" 60Hz FHD (1920x1080)**
 - Monitor: **HP Compaq LE1711 LCD FHD Monitor 17.0" 60Hz (1280x1024)**
-  
-## 3. Performance Notebook (1st Job)
-- Brand/Manufacturer: HP
-- Model: ZBook Fury 15 G7
-### Specification
-- Central Processing Unit (CPU): **10th Gen Intel® Core™ i7-10850H CPU @ 2.70GHz** (8P+0E=8C; 16T)
-- Graphic Processing Unit (GPU): **NVIDIA Quadro RTX 3000**
-- Random Access Memory (RAM): **16GB DDR4 2667MHz (2 pcs)**
-- Operating System (OS): **Windows 11**
-- Storage: **KXG60ZNV1T02 KIOXIA SSD 1TB**
-- Network Card: **Intel® Wi-Fi 6 AX201 160MHz**
-- Display: **HP Laptop Screen 15.6" Hz (1920x1080)**
-- Monitor: **Acer B247Y D Widescreen LCD FHD Monitor 23.8" 75Hz (1920x1080)**
-- Docking Station: **HP Thunderbolt Dock 230W G2 HSN-IX01**
 
-## 4. Desktop A (For industrial automation engineering purposes)
+## 3. Desktop A (For industrial automation engineering purposes)
 ### Specification
 - Motherboard (MB): **Asus H110M-D Micro-ATX (LGA 1151, DDR4)**
 - Central Processing Unit (CPU): **7th Gen Intel® Core™ i3-7100 CPU @ 3.90GHz** (2P+0E=2C; 4T)
@@ -77,7 +63,7 @@
 
 Condition: Used and refurbished by my own without any cost.
 
-## 5. Desktop B (For video-playing entertainment purposes)
+## 4. Desktop B (For video-playing entertainment purposes)
 ### Specification
 - Motherboard (MB): **MSI G41M-P28 Micro-ATX (LGA 775, DDR3)**
 - Central Processing Unit (CPU): **Pentium® Dual Core CPU E5700 @ 3.00GHz** (2P+0E=2C; 2T)
@@ -94,7 +80,7 @@ Condition: Used and refurbished by my own without any cost.
 
 Condition: Used and refurbished by my own without any cost.
 
-## 6. Spare Parts
+## 5. Spare Parts
 ### Specification
 - Motherboard (MB): **Gigabyte GA-287-D3HP ATX (LGA 1150, DDR3)**
 - Central Processing Unit (CPU): **4th Gen Intel® Core™ i7-4770 CPU @ 3.40GHz** (4P+0E=4C; 8T)
@@ -151,6 +137,20 @@ Condition: Used and refurbished by my own without any cost.
 - CPU Cooler: **** - 242
 - Casing: **Aigo CPU Casing ATX T21 + 6pcs fan** - 121
 - Monitor: **** - 950
+
+## First Job - Performance Notebook
+- Brand/Manufacturer: HP
+- Model: ZBook Fury 15 G7
+### Specification
+- Central Processing Unit (CPU): **10th Gen Intel® Core™ i7-10850H CPU @ 2.70GHz** (8P+0E=8C; 16T)
+- Graphic Processing Unit (GPU): **NVIDIA Quadro RTX 3000**
+- Random Access Memory (RAM): **16GB DDR4 2667MHz (2 pcs)**
+- Operating System (OS): **Windows 11**
+- Storage: **KXG60ZNV1T02 KIOXIA SSD 1TB**
+- Network Card: **Intel® Wi-Fi 6 AX201 160MHz**
+- Display: **HP Laptop Screen 15.6" Hz (1920x1080)**
+- Monitor: **Acer B247Y D Widescreen LCD FHD Monitor 23.8" 75Hz (1920x1080)**
+- Docking Station: **HP Thunderbolt Dock 230W G2 HSN-IX01**
 
 <!--
 Ultrabook / Thin‑and‑Light
