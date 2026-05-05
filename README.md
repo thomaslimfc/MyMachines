@@ -76,6 +76,8 @@ Condition: Used and refurbished by my own without any cost.
 - Power Supply Unit (PSU): **HP**
 - CPU Cooler: **Intel (OEM)**
 - Casing: **HP**
+- Chassis Fan (Intake): Cooler Master A12025-12CB-4BN-F1 (Red)
+- Chassis Fan (Exhaust): Cooler Master A12025-12CB-3BN-F1
 - Monitor: **Sony Bravia LED TV**
 
 Condition: Used and refurbished by my own without any cost.
