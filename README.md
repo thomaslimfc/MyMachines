@@ -8,7 +8,7 @@
 ### Specification
 - Central Processing Unit (CPU): **11th Gen Intel® Core™ i5-11400H @ 2.70GHz** (6P+0E=6C; 10T)
 - Graphic Processing Unit (GPU): **NVIDIA GeForce RTX 3050 Laptop GPU**
-- Random Access Memory (RAM): **Kingston Fury Impact DDR4 3200MHz 8GB x2**
+- Random Access Memory (RAM): **Kingston Fury Impact 8GB DDR4 3200MHz (2 pcs)**
 - Operating System (OS): **Windows 11**
 - Storage: **Intel NVMe SSDPEKNU512GZ SSD 500GB**
 - Secondary Storage: **Kingston NV2 M.2 2280 PCIe NVMe Gen4 SNV251000G SSD 1TB**
@@ -39,7 +39,7 @@
 ### Specification
 - Central Processing Unit (CPU): **10th Gen Intel® Core™ i5-1035G1 CPU @ 1.00GHz** (4P+0E=4C; 8T)
 - Graphic Processing Unit (GPU): N/A
-- Random Access Memory (RAM): **DDR4 3200MHz 4GB x2** (Integrated)
+- Random Access Memory (RAM): **4GB DDR4 3200MHz (2 pcs)** (Integrated)
 - Operating System (OS): **Windows 11**
 - Storage: **Samsung MZVLQ512HALU-00000 SSD 512GB**
 - Network Card: **Intel® Wi-Fi 6 AX201 160MHz**
@@ -52,7 +52,7 @@
 ### Specification
 - Central Processing Unit (CPU): **10th Gen Intel® Core™ i7-10850H CPU @ 2.70GHz** (8P+0E=8C; 16T)
 - Graphic Processing Unit (GPU): **NVIDIA Quadro RTX 3000**
-- Random Access Memory (RAM): **DDR4 2667MHz 16GB x2**
+- Random Access Memory (RAM): **16GB DDR4 2667MHz (2 pcs)**
 - Operating System (OS): **Windows 11**
 - Storage: **KXG60ZNV1T02 KIOXIA SSD 1TB**
 - Network Card: **Intel® Wi-Fi 6 AX201 160MHz**
@@ -60,38 +60,54 @@
 - Monitor: **Acer B247Y D Widescreen LCD FHD Monitor 23.8" 75Hz (1920x1080)**
 - Docking Station: **HP Thunderbolt Dock 230W G2 HSN-IX01**
 
-## 4. Desktop A (For general testing purposes)
+## 4. Desktop A (For industrial automation engineering purposes)
 ### Specification
-- Motherboard (MB): **Asus H110M-D (LGA 1151 - Socket H4)**
+- Motherboard (MB): **Asus H110M-D Micro-ATX (LGA 1151, DDR4)**
 - Central Processing Unit (CPU): **7th Gen Intel® Core™ i3-7100 CPU @ 3.90GHz** (2P+0E=2C; 4T)
-- Graphic Processing Unit (GPU): N/A
-- Random Access Memory (RAM): **Kingston DDR4 2133MHz 8GB**
+- Graphic Processing Unit (GPU): **Asus Geforce GTX 650 GTX650-E-2GD5**
+- Random Access Memory (RAM): **Kingston 8GB DDR4 2133MHz**
 - Operating System (OS): **Windows 11**
-- Storage: **Western Digital HDD 1TB**
+- Storage (Primary): **Western Digital Blue 1TB 2.5" HDD**
+- Storage (Secondary): **Western Digital Caviar Green 3.5" 1TB HDD**
 - Network Card: **Ugreen AX300 Wi-Fi 6 2.4G (300Mbps) 3dBi [External]**
-- Power Supply Unit (PSU): **Cooler Master Elite Power 460 RS-460-PSAR-I3**
+- Power Supply Unit (PSU): **Cooler Master Extreme 2 625W RS-625-PCAR-D3**
 - CPU Cooler: **Intel E97379-003 (OEM)**
-- Casing: **Cooler Master Casing**
+- Casing: **Cooler Master Elite 311**
 - Monitor: **Phillips 223V5LSB2/69 Monitor**
 
 Condition: Used and refurbished by my own without any cost.
 
-## 5. Desktop B (For industrial automation engineering purposes)
+## 5. Desktop B (For video-playing entertainment purposes)
 ### Specification
-- Motherboard (MB): **Gigabyte GA-287-D3HP (LGA 1150 - Socket H3)**
-- Central Processing Unit (CPU): **4th Gen Intel® Core™ i7-4770 CPU @ 3.40GHz** (4P+0E=4C; 8T)
-- Graphic Processing Unit (GPU): **GTX650-E-2GD5**
-- Random Access Memory (RAM): **Kingston DDR3 1600MHz 8GB**
-- Operating System (OS): **Windows 11**
-- Storage: **Western Digital Caviar Green 3.5" HDD 1TB**
+- Motherboard (MB): **MSI G41M-P28 Micro-ATX (LGA 775, DDR3)**
+- Central Processing Unit (CPU): **Pentium® Dual Core CPU E5700 @ 3.00GHz** (2P+0E=2C; 2T)
+- Graphic Processing Unit (GPU): **N/A**
+- Random Access Memory (RAM): **Kingston KVR1333D3S8N9/2G 2GB DDR4 1333MHz**
+- Operating System (OS): **Windows 7**
+- Storage (Primary): **Western Digital 500GB 3.5" HDD**
+- Storage (Secondary): **Samsung 3.5" 500GB HDD**
 - Network Card: **Tp-Link TL-WN751ND (150Mbps)**
-- Power Supply Unit (PSU): **Cooler Master Extreme 2 625W RS-625-PCAR-D3**
-- CPU Cooler: **Intel E97378-001**
-- Casing: **Cooler Master Casing**
-- Monitor: **Samsung S19C150 HD Monitor**
-- Monitor: **HP Compaq LE1711 LCD Monitor 17.0**
+- Power Supply Unit (PSU): **HP**
+- CPU Cooler: **Intel (OEM)**
+- Casing: **HP**
+- Monitor: **Sony Bravia LED TV**
 
 Condition: Used and refurbished by my own without any cost.
+
+## 6. Spare Parts
+### Specification
+- Motherboard (MB): **Gigabyte GA-287-D3HP ATX (LGA 1150, DDR3)**
+- Central Processing Unit (CPU): **4th Gen Intel® Core™ i7-4770 CPU @ 3.40GHz** (4P+0E=4C; 8T)
+- Graphic Processing Unit (GPU): **N/A**
+- Random Access Memory (RAM): **Kingston KVR16N11/8 8GB DDR3 1600MHz**
+- Random Access Memory (RAM): **DDR2** 2pcs
+- Operating System (OS): **N/A**
+- Storage: **Western Digital** 2pcs
+- Power Supply Unit (PSU): **Cooler Master Elite Power 460 RS-460-PSAR-I3**
+- CPU Cooler: **Intel E97378-001**
+- Casing: **Cooler Master K350**
+- Monitor: **Samsung S19C150 HD Monitor**
+- Monitor: **HP Compaq LE1711 LCD Monitor 17.0**
 
 ## 6. Coming Soon
 
