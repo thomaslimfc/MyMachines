@@ -46,7 +46,7 @@
 - Display: **Asus Laptop Screen 13.3" 60Hz FHD (1920x1080)**
 - Monitor: **HP Compaq LE1711 LCD FHD Monitor 17.0" 60Hz (1280x1024)**
 
-## 3. Business Notebook
+## 3. Business Notebook (For ethical hacking purposes)
 - Brand/Manufacturer: HP
 - Model: Pavilion TPN-Q158 (2015)
 ### Specification
