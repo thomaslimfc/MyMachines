@@ -49,6 +49,8 @@
 ## 3. Business Notebook (For ethical hacking purposes)
 - Brand/Manufacturer: HP
 - Model: Pavilion TPN-Q158 (2015)
+- Product Number: M4Y01PA#UUF
+- Serial Number: 5CD51840L8
 ### Specification
 - Central Processing Unit (CPU): **5th Gen Intel® Core™ i5-5200U CPU @ 2.20GHz** (2P+0E=2C; 4T)
 - Graphic Processing Unit (GPU): **NVIDIA GeForce 940M Laptop GPU GM108M** (2GB GDDR3 VRAM)
