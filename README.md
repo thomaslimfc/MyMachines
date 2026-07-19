@@ -7,7 +7,7 @@
 - Model: FX506H
 ### Specification
 - Central Processing Unit (CPU): **11th Gen Intel® Core™ i5-11400H @ 2.70GHz** (6P+0E=6C; 10T)
-- Graphic Processing Unit (GPU): **NVIDIA GeForce RTX 3050 Laptop GPU**
+- Graphic Processing Unit (GPU): **NVIDIA GeForce RTX 3050 Laptop GPU** (GDDR6 VRAM)
 - Random Access Memory (RAM): **Kingston Fury Impact 8GB DDR4 3200MHz (2 pcs)**
 - Operating System (OS): **Windows 11**
 - Storage: **Intel NVMe SSDPEKNU512GZ SSD 500GB**
@@ -46,11 +46,23 @@
 - Display: **Asus Laptop Screen 13.3" 60Hz FHD (1920x1080)**
 - Monitor: **HP Compaq LE1711 LCD FHD Monitor 17.0" 60Hz (1280x1024)**
 
-## 3. Desktop A (For industrial automation engineering purposes)
+## 3. Business Notebook
+- Brand/Manufacturer: HP
+- Model: Pavilion TPN-Q158 (2015)
+### Specification
+- Central Processing Unit (CPU): **5th Gen Intel® Core™ i5-5200U CPU @ 2.20GHz** (2P+0E=2C; 4T)
+- Graphic Processing Unit (GPU): **NVIDIA GeForce 940M Laptop GPU GM108M** (2GB GDDR3 VRAM)
+- Random Access Memory (RAM): **4GB + 2GB DDR3 1600MHz**
+- Operating System (OS): **Kali Linux 2025.3 (Kernel 6.12)**
+- Storage: **Pioneer APS-SL3N-256 SSD 256GB**
+- Network Card: **Broadcom Wi-Fi 4 BCM43142**
+- Display: **HP Laptop Screen 15.6" FHD (1920x1080)**
+
+## 4. Desktop A (For industrial automation engineering purposes)
 ### Specification
 - Motherboard (MB): **Asus H110M-D Micro-ATX (LGA 1151, DDR4)**
 - Central Processing Unit (CPU): **7th Gen Intel® Core™ i3-7100 CPU @ 3.90GHz** (2P+0E=2C; 4T)
-- Graphic Processing Unit (GPU): **Asus Geforce GTX 650 GTX650-E-2GD5**
+- Graphic Processing Unit (GPU): **Asus Geforce GTX 650 GTX650-E-2GD5** (2GB GDDR5 VRAM)
 - Random Access Memory (RAM): **Kingston 8GB DDR4 2133MHz**
 - Operating System (OS): **Windows 11**
 - Storage (Primary): **Western Digital Blue 1TB 2.5" HDD**
@@ -63,7 +75,7 @@
 
 Condition: Used and refurbished by my own without any cost.
 
-## 4. Desktop B (For video-playing entertainment purposes)
+## 5. Desktop B (For media-playing purposes)
 ### Specification
 - Motherboard (MB): **MSI G41M-P28 Micro-ATX (LGA 775, DDR3)**
 - Central Processing Unit (CPU): **Pentium® Dual Core CPU E5700 @ 3.00GHz** (2P+0E=2C; 2T)
@@ -82,7 +94,7 @@ Condition: Used and refurbished by my own without any cost.
 
 Condition: Used and refurbished by my own without any cost.
 
-## 5. Spare Parts
+## 6. Spare Parts
 ### Specification
 - Motherboard (MB): **Gigabyte GA-287-D3HP ATX (LGA 1150, DDR3)**
 - Central Processing Unit (CPU): **4th Gen Intel® Core™ i7-4770 CPU @ 3.40GHz** (4P+0E=4C; 8T)
@@ -97,7 +109,7 @@ Condition: Used and refurbished by my own without any cost.
 - Monitor: **Samsung S19C150 HD Monitor**
 - Monitor: **HP Compaq LE1711 LCD Monitor 17.0**
 
-## 6. Coming Soon
+## 7. Coming Soon
 
 ### Budget PC - MYR 4.0k
 - Central Processing Unit (CPU): **14th Gen Intel® Core™ i5-14400F @ 4.70GHz (6P+8E=14C; 20T) 148W** - 639
