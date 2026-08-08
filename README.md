@@ -6,7 +6,7 @@
 - Chassis: F15
 - Model: FX506H
 ### Specification
-- Central Processing Unit (CPU): **11th Gen Intel® Core™ i5-11400H @ 2.70GHz** (6P+0E=6C / 10T)
+- Central Processing Unit (CPU): **11th Gen Intel® Core™ i5-11400H @ 2.70GHz** (6P+0E=6C / 12T)
 - Graphic Processing Unit (GPU): **NVIDIA GeForce RTX 3050 Laptop GPU** (GDDR6 VRAM)
 - Random Access Memory (RAM): **Kingston Fury Impact 8GB DDR4 3200MHz (2 pcs)**
 - Operating System (OS): **Windows 11**
