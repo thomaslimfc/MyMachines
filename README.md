@@ -14,7 +14,7 @@
 - Secondary Storage: **Kingston NV2 M.2 2280 PCIe NVMe Gen4 SNV251000G SSD 1TB**
 - Network Card: **MediaTek Wi-Fi 6 MT7921 Wireless LAN Card**
 - Display: **Asus Laptop Screen 15.6" 144Hz (1920x1080)**
-- Monitor: **HP M24D FHD Monitor 23.8" 75Hz (1920x1080)**
+- Monitor: **HP M24D FHD Monitor 23.8" 75Hz 300nits IPS (1920x1080)**
 
 <table>
   <tr>
@@ -44,7 +44,7 @@
 - Storage: **Samsung MZVLQ512HALU-00000 SSD 512GB**
 - Network Card: **Intel® Wi-Fi 6 AX201 160MHz**
 - Display: **Asus Laptop Screen 13.3" 60Hz FHD (1920x1080)**
-- Monitor: **HP Compaq LE1711 LCD FHD Monitor 17.0" 60Hz (1280x1024)**
+- Monitor: **HP Compaq LE1711 LCD FHD Monitor 17.0" 60Hz TN (1280x1024)**
 
 ## 3. Business Notebook (For ethical hacking purposes)
 - Brand/Manufacturer: HP
@@ -165,8 +165,21 @@ Condition: Used and refurbished by my own without any cost.
 - Storage: **KXG60ZNV1T02 KIOXIA SSD 1TB**
 - Network Card: **Intel® Wi-Fi 6 AX201 160MHz**
 - Display: **HP Laptop Screen 15.6" Hz (1920x1080)**
-- Monitor: **Acer B247Y D Widescreen LCD FHD Monitor 23.8" 75Hz (1920x1080)**
+- Monitor: **Acer Vero B7 B247Y D Widescreen LCD FHD Monitor 23.8" 75Hz 300nits IPS (1920x1080)**
 - Docking Station: **HP Thunderbolt Dock 230W G2 HSN-IX01**
+
+## Second Job - Performance Notebook
+- Brand/Manufacturer: DELL
+- Model: Precision 7540 (2020)
+### Specification
+- Central Processing Unit (CPU): **10th Gen Intel® Core™ i7-9750H CPU @ 2.60GHz** (6P+0E=6C / 12T)
+- Graphic Processing Unit (GPU): **NVIDIA Quadro T2000**
+- Random Access Memory (RAM): **16GB DDR4 2667MHz (2 pcs)**
+- Operating System (OS): **Windows 11**
+- Storage: **Micron 2200S NVMe 512GB**
+- Network Card: **Intel® Wi-Fi 6 AX200 160MHz**
+- Display: **Dell Laptop Screen 15.6" Hz (1920x1080)**
+- Monitor: **Dell P2426H Pro P 24 FHD Monitor 23.8" 120Hz 250nits IPS (1920x1080)**
 
 <!--
 Ultrabook / Thin‑and‑Light
